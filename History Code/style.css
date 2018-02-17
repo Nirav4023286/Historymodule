@@ -1,0 +1,19 @@
+.styledButton:hover{
+  background-color:#808080!important;
+  color: white!important;
+}
+.styledButton:active{
+  background-color:#808080!important;
+  color: white!important;
+}
+.styledButton:focus{
+  background-color:#808080!important;
+  color: white!important;
+  border-color:#808080!important;
+}
+.styledButton{
+width:120px!important;
+outline:none!important;
+border-radius:0px!important;
+margin-top: 13px!important;
+}
